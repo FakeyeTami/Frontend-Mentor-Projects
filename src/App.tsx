@@ -19,7 +19,7 @@ const defaultColor = "bg-gray-200";
 
 function App() {
     return (
-        <div className="flex flex-col gap-28 justify-center content-center xl:m-20 lg:m-10 md:mx-10 my-10 sm:mx-7 xs:mx-5 2xs:mx-2">
+        <div className="flex flex-col gap-28 justify-center content-center xl:m-20 lg:m-10 md:mx-10 my-10 sm:mx-7 xs:mx-5 2xs:mx-2:">
             <Header />
             <Main projects={projects} />
         </div>
