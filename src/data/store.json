@@ -1,5 +1,16 @@
 [
     {
+        "Title": "Recipe Page",
+        "Image": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/sogk9gtrzrmsf2rzcj63.jpg",
+        "Tags": ["HTML", "CSS"],
+        "Description": "Built out this recipe page, wit a focus on using semantic tags to get it looking as close to the design as possible",
+        "Links": [
+            "https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm",
+            "https://fakeyetami.github.io/Recipe-Page/",
+            "https://github.com/FakeyeTami/Recipe-Page"
+        ]
+    },
+    {
         "Title": "QR Code Component",
         "Image": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/cybxdhr4wewlscvco9dd.jpg",
         "Tags": ["HTML", "CSS"],
