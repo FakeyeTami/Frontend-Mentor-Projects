@@ -3,11 +3,11 @@
         "Title": "Recipe Page",
         "Image": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/sogk9gtrzrmsf2rzcj63.jpg",
         "Tags": ["HTML", "CSS"],
-        "Description": "Built out this recipe page, wit a focus on using semantic tags to get it looking as close to the design as possible",
+        "Description": "Built out this recipe page, with a focus on using semantic tags to get it looking as close to the design as possible",
         "Links": [
             "https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm",
-            "https://fakeyetami.github.io/Recipe-Page/",
-            "https://github.com/FakeyeTami/Recipe-Page"
+            "https://fakeyetami.github.io/recipe-page/",
+            "https://github.com/FakeyeTami/recipe-page"
         ]
     },
     {
@@ -17,8 +17,8 @@
         "Description": "Built out a simple QR code component and got it looking as close to the design as possible",
         "Links": [
             "https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H",
-            "https://fakeyetami.github.io/Qr-Code-Component/",
-            "https://github.com/FakeyeTami/Qr-Code-Component"
+            "https://fakeyetami.github.io/qr-code-component/",
+            "https://github.com/FakeyeTami/qr-code-component"
         ]
     },
     {
@@ -28,19 +28,19 @@
         "Description": "Built a responsive social profile card showcasing user details and social media links.",
         "Links": [
             "https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ",
-            "https://fakeyetami.github.io/Social-Links-Profile/",
-            "https://github.com/FakeyeTami/Social-Links-Profile"
+            "https://fakeyetami.github.io/social-links-profile/",
+            "https://github.com/FakeyeTami/social-links-profile"
         ]
     },
     {
         "Title": "Blog Preview Card",
         "Image": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/kaiwxzdh90xhbdwsstvl.jpg",
         "Tags": ["HTML", "CSS"],
-        "Description": "Built a blog preview card showcasing a blog post, most notable feature beign the hover and focus state of the card.",
+        "Description": "Built a blog preview card showcasing a blog post, most notable feature being the hover and focus state of the card.",
         "Links": [
             "https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS",
-            "https://fakeyetami.github.io/Blog-Preview-Card/",
-            "https://github.com/FakeyeTami/Blog-Preview-Card"
+            "https://fakeyetami.github.io/blog-preview-card/",
+            "https://github.com/FakeyeTami/blog-preview-card"
         ]
     }
 ]
