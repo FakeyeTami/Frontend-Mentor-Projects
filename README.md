@@ -27,7 +27,7 @@ The repository follows a **mobile-first design approach** to ensure an optimal u
 
 ## Deployment
 
--   [Live Site URL](fakeyetami-frontend-mentor-challenges.netlify.app)
+- [Live Site URL](https://fakeyetami-frontend-mentor-challenges.netlify.app)
 
 ## License
 
